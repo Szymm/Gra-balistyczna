@@ -1,0 +1,9 @@
+1. Opis gry.
+
+2. Projekt gry.
+
+3. Implementacja.
+a) serwer
+b) klient
+
+4. Testy i poprawki.
