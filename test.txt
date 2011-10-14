@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-12
-=======
-1234
->>>>>>> 811b34bb7d61ce145e2f953545e95e8e1b0d69f5
+witam panstwa na zabawie
