@@ -1,7 +1,5 @@
 1. Opis gry. (31.10.2011)
-Dok³adny, koï¿½cowy opis gry ma byï¿½ gotowy najpï¿½niej do koï¿½ca paï¿½dziernika.
 Takï¿½e trzeba streszczaï¿½ dupy.
-
 2. Projekt gry.
 
 3. Implementacja.
