@@ -1,9 +1,0 @@
-1. Opis gry. (31.10.2011)
-Tak�e trzeba streszcza� dupy.
-2. Projekt gry.
-
-3. Implementacja.
-a) serwer
-b) klient
-
-4. Testy i poprawki.
