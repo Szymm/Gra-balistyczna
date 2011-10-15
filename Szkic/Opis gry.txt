@@ -1,0 +1,18 @@
+CEL GRY
+
+- celem gry jest zniszczenie g³ównych siedzib przeciwnika
+- siedziby maj¹ okreœlon¹ iloœæ ¿ycia i s¹ zniszczone gdy ¿ycie spada <=0
+- gdy siedziba jest zniszczona gracz przegrywa
+
+SIEDZIBA
+
+- siedzibe mo¿na rozbudowywaæ
+
+ULEPSZENIA
+
+SUROWCE
+
+WALKA
+
+GRACZ
+-gra 2osobowa (mo¿e wiêcej?)
