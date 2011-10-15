@@ -29,4 +29,5 @@ ULEPSZENIA
 SUROWCE
 
 GRACZ
-- steruje 
+- steruje swoimi jednostkami (bêd¹ jakieœ jednostki?) i swoj¹ siedzib¹
+- 
