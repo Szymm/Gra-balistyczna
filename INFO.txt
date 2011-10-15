@@ -1,0 +1,17 @@
+15.10.2011
+--------------
+Mianujê siê kierownikiem projektu! :D
+Streszczaæ dupy i dopisywaæ swoje pomys³y w folderze szkic!
+Zasady:
+- trzeba siê mnie s³uchaæ :D
+- nie wolno Wam kasowaæ plików z repozytorium
+- mo¿ecie edytowaæ tylko pliki w folderze Szkic/
+- mo¿ecie dodawaæ nowe pliki w folderze Szkic/
+- musicie dorzucaæ swoje pomys³y
+- gra musi byæ dok³adnie opisana do koñca paŸdziernika
+- dok³adnie tzn. WSZYSTKO: wygl¹d, sposób gry, iloœæ graczy, rozpisane jednostki, pociski, surowce, o ile w ogóle te rzeczy bêd¹. 
+Najlepiej jakbyœmy skoñczyli do 24, czyli za nieco ponad tydzieñ, a potem tydzieñ na poprawki ostateczne. 
+Potem zabierzemy siê za projektrowanie, czyli klasy, diagramy ale te¿ grafika itd. 
+Potem pisanie programu czyli implementacja. 
+Na koñcu testy i ostatnie poprawki.
+--------------
