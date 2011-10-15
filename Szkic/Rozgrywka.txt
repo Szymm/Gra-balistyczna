@@ -1,4 +1,0 @@
-STEROWANIE
-
-GUI (Graphic User Interface)
-- po klikniêciu klawisza 'b' pojawia siê menu tworzenia ulepszeñ
