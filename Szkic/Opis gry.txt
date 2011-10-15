@@ -1,18 +1,32 @@
+OGÓLNIE
+- gra turowa
+- gra 2osobowa (mo¿e wiêcej?)
+
+MAPY
+1. Bitewna
+- widok z boku
+- obs³uguje siê na niej maszyny
+- strzela siê
+2. Rozbudowy
+- pokazuje aktualny stan siedziby
+- pokazuje menu do rozbudowy
+3. Mapa œwiata
+- widaæ surowce
+
 CEL GRY
 
 - celem gry jest zniszczenie g³ównych siedzib przeciwnika
-- siedziby maj¹ okreœlon¹ iloœæ ¿ycia i s¹ zniszczone gdy ¿ycie spada <=0
+- siedziby maj¹ okreœlon¹ iloœæ ¿ycia i s¹ zniszczone gdy ¿ycie spada do 0 lub ni¿ej
 - gdy siedziba jest zniszczona gracz przegrywa
 
-SIEDZIBA
+FABU£A
 
-- siedzibe mo¿na rozbudowywaæ
+SIEDZIBA
+- siedzibê mo¿na rozbudowywaæ
 
 ULEPSZENIA
 
 SUROWCE
 
-WALKA
-
 GRACZ
--gra 2osobowa (mo¿e wiêcej?)
+- steruje 
