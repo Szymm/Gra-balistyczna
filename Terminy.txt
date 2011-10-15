@@ -4,7 +4,7 @@ Tak¿e trzeba streszczaæ dupy.
 
 2. Projekt gry.
 
-3. Implementacja.
+3. Implementacja.,
 a) serwer
 b) klient
 
