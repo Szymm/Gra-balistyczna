@@ -3,9 +3,14 @@
 --------------
 - œci¹gnijcie sobie open offica
 - tworzymy na razie Design Dokument
-- tu jest przyk³adowy: http://www.okita.com/ES/EmberScribe_CompleteDesign_2005-06-03-1955.pdf
+- tu jest przyk³adowy:
+ 
+http://inwriter.files.wordpress.com/2011/01/gdd.pdf
+
 - przeczytajcie koniecznie ten artyku³, a przynajmniej czêœæ dotycz¹c¹ Design dokumentu:
+
 http://warsztat.gd/articles.php?x=view&id=38
+
 --------------
 15.10.2011
 --------------
